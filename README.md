@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### My name is WenkangJi, and [IT兄弟盟](https://cnblogs.com/itxdm) is my blog.
 <!--
 **erlinux/erlinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
