@@ -1,6 +1,6 @@
 ### Hi there 👋
-### My name is WenkangJi, and [IT兄弟盟](https://cnblogs.com/itxdm) is my blog.
-You can find me by WeChat: **erlinux** and Email by **jiwenkangatech#foxmail.com** (change \# to @)
+### My name is Wenkang, and [季文康](https://www.jiwenkang.com) is my blog.
+You can find me by WeChat: **erlinux** or E-mail by **jiwenkangatech#foxmail.com** (change \# to @)
 
 <!--
 **erlinux/erlinux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
