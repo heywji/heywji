@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Wecom, and [wenkangji.com](https://www.wenkangji.com) is my blog.
+### My name is WeCom, and [wenkangji.com](https://www.wenkangji.com) is my blog.
 
 - 🔭 I’m currently working on Red Hat
 - 🌱 I’m currently learning the avocado-vt framework
