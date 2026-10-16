@@ -1,9 +1,10 @@
 ### Hi there 👋
-### My name is WeCom, and [wenkangji.com](https://www.wenkangji.com) is my blog.
+### I'm Wenkang (WeCom) Ji, and [wenkangji.com](https://www.wenkangji.com) is my blog.
 
-- 🔭 I’m currently working on Red Hat
-- 🌱 I’m currently learning the avocado-vt framework
-- 👯 I’m looking to collaborate on coding and English learning
-- 💬 Ask me about RHCSA, RHCE, RHCA, ISTQB
+- 🔭 I'm a Customer Success Engineer (CSE) at Red Hat, Shanghai
+- 🧱 Background: Linux, KVM/virtualization, virtio-win Windows QE, enterprise CI/CD & test automation
+- 🌱 Currently building: AI agents and enterprise AI workflows (human-in-the-loop, auditable, rollback-ready)
+- 👯 Looking to collaborate on AI agent tooling, workflow automation, and English learning
+- 💬 Ask me about Linux, KVM/virtio, OpenShift, RHCSA / RHCE / RHCA, ISTQB
 - 📫 How to reach me: **wji#redhat.com** (change \# to @)
-- ⚡ Fun fact: RHCI_Speaker, Chinese Cooking
+- ⚡ Fun fact: RHCI Speaker, Chinese cooking
